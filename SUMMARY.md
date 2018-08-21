@@ -23,7 +23,7 @@
   * [接入指南](fu-you-wang-quan-ping-tai-da-che-openapi/jie-ru-zhi-nan/README.md)
     * [接口列表](fu-you-wang-quan-ping-tai-da-che-openapi/jie-ru-zhi-nan/jie-kou-lie-biao.md)
     * [回调](fu-you-wang-quan-ping-tai-da-che-openapi/jie-ru-zhi-nan/hui-tiao.md)
-* [福优网电影票OpenAPI](fu-you-wang-dian-ying-piao-openapi/README.md)
+* [电影票业务](fu-you-wang-dian-ying-piao-openapi/README.md)
   * [业务说明](fu-you-wang-dian-ying-piao-openapi/ye-wu-shuo-ming/README.md)
     * [接口说明](fu-you-wang-dian-ying-piao-openapi/ye-wu-shuo-ming/jie-kou-shuo-ming.md)
     * [错误说明](fu-you-wang-dian-ying-piao-openapi/ye-wu-shuo-ming/cuo-wu-shuo-ming.md)
