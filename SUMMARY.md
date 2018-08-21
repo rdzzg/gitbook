@@ -14,7 +14,7 @@
   * [接入指南](untitled/jie-ru-zhi-nan/README.md)
     * [接口列表](untitled/jie-ru-zhi-nan/jie-kou-lie-biao.md)
     * [回调说明](untitled/jie-ru-zhi-nan/hui-tiao-shuo-ming.md)
-* [福优网全平台打车OpenAPI](fu-you-wang-quan-ping-tai-da-che-openapi/README.md)
+* [全平台打车业务](fu-you-wang-quan-ping-tai-da-che-openapi/README.md)
   * [业务说明](fu-you-wang-quan-ping-tai-da-che-openapi/jie-shao/README.md)
     * [接口说明](fu-you-wang-quan-ping-tai-da-che-openapi/jie-shao/jie-kou-jie-shao.md)
     * [车型说明](fu-you-wang-quan-ping-tai-da-che-openapi/jie-shao/che-xing-jie-shao.md)
